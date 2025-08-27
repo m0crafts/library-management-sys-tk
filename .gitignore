@@ -60,22 +60,3 @@ venv.bak/
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-# Application specific
-*.log
-config.ini
-data/
-backups/
-*.png
-*.jpg
-*.jpeg
-qr_codes/
-.DS_Store
-App.py
-Book.py
-Library.py
-Patron.py
-__pycache__/
-img/
-main.py
-utils.py
